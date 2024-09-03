@@ -26,13 +26,13 @@ Users should be able to:
 
 ### Screenshots
 
-![](./screenshot.jpg)
-![](./screenshot.jpg)
+![mobile view](./blog-card-mobile-result.jpg)
+![desktop view](./blog-card-desktop-result.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/Abas-code/blog-preview-card-main)
+- Live Site URL: (https://blog-preview-card-main-blond-theta.vercel.app/)
 
 
 ## My process
