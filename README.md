@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Screenshots
 
-![mobile view](./blog-card-mobile-result.jpg)
-![desktop view](./blog-card-desktop-result.jpg)
+![mobile view](./assets/design/blog-card-mobile-result.jpg)
+![desktop view](./assets/design/blog-card-desktop-result.jpg)
 
 ### Links
 
